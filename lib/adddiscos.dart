@@ -14,6 +14,7 @@ class AddDiscos extends StatelessWidget {
       appBar: AppBar(
         title: const Text("Adicionar Disco"),
         backgroundColor: Colors.black,
+        foregroundColor: Colors.white,
         centerTitle: true,
         elevation: 0,
       ),

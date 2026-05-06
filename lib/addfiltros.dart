@@ -14,6 +14,7 @@ class AddFiltros extends StatelessWidget {
       appBar: AppBar(
         title: const Text("Adicionar Filtro"),
         backgroundColor: Colors.black,
+        foregroundColor: Colors.white,
         centerTitle: true,
         elevation: 0,
       ),
